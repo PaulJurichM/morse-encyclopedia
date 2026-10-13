@@ -691,10 +691,15 @@ PAGES["roman-05"] = ("Мертвецы Джерико", f"""
 <details class="spoiler"><summary>Развязка серии — открыть</summary>
 <p>Энн действительно покончила с собой; вскрытие показало, что она была беременна. Шантажиста Джорджа Джексона убивает Алан Ричардс. Версия Морса о том, что Нед — сын Энн и в истории повторяется Эдип, не подтверждается.</p>
 </details>
-<p class="muted">Развязку романа мы перескажем, когда сверим её по двум независимым источникам.</p>
+<details class="spoiler"><summary>Развязка романа — открыть</summary>
+<p>Энн Скотт действительно покончила с собой, и причина у неё была. Рецензент Kirkus Reviews прямо сравнивает её положение с положением Иокасты из «Царя Эдипа» — матери, которая, сама того не зная, стала женой собственного сына, а узнав правду, повесилась. В книге эдиповская догадка Морса, которую в сериале опровергает Льюис, оказывается не напрасной.</p>
+<p>Издатель Чарльз Ричардс, женатый любовник Энн, вроде бы чист: в решающее время он читал лекцию, на которой сидел сам Морс. Но в самом конце выясняется, что это алиби искусно подстроено. В сериале механика показана открыто: на лекции вместо Алана Ричардса выступает его брат-близнец Тони, а Алан тем временем убивает шантажиста Джексона, чтобы забрать предсмертную записку Энн.</p>
+</details>
 
 <h2>Источники</h2>
 <ul class="src">
+<li><a href="https://www.kirkusreviews.com/book-reviews/a/colin-dexter-3/the-dead-of-jericho/">Рецензия Kirkus Reviews на роман</a></li>
+<li><a href="https://tvtropes.org/pmwiki/pmwiki.php/Recap/InspectorMorseS1E01TheDeadOfJericho">Пересказ серии на TV Tropes</a></li>
 <li><a href="https://en.wikipedia.org/wiki/The_Dead_of_Jericho">The Dead of Jericho — Википедия (англ.)</a></li>
 <li><a href="https://morseandlewisandendeavour.com/2014/01/30/the-dead-of-jericho/">Разбор серии на morseandlewisandendeavour.com</a></li>
 <li><a href="https://www.goodreads.com/author_blog_posts/9014253-one-man-s-opinion-the-dead-of-jericho-by-colin-dexter">Рецензия на роман (Goodreads)</a></li>
@@ -1219,7 +1224,10 @@ PAGES["roman-12"] = ("Смерть теперь моя соседка", f"""
 {fig(71, "Сэмюэл Аткинс. «Индевор» у берегов Новой Голландии, около 1794")}
 {fig(72, "Уильям Ходжес. «Высадка на Танне», около 1775 — эта картина висит в комнате Сторрса в сериале")}
 </div>
-<p class="muted">Развязку романа мы перескажем, когда сверим её по двум независимым источникам.</p>
+<details class="spoiler"><summary>Развязка — открыть, если роман прочитан</summary>
+<p>Рейчел погибла по ошибке. Стреляла Анджела Сторрс, жена претендента Джулиана Сторрса, а целилась она в соседа Рейчел, репортёра Джеффри Оуэнса, который её шантажировал: он раскопал её прошлое. Строители пропустили в нумерации дом 13, Анджела ошиблась домом и в темноте приняла силуэт с конским хвостом за Оуэнса. Наутро, поняв ошибку, она убивает и самого Оуэнса. Алиби ей ложно подтверждает девушка по имени Дон. Жена Дениса Корнфорда Шелли кончает с собой: глава колледжа сэр Кликсби Брим соблазнил её, пообещав поддержать её мужа на выборах, и обманул. Брим остаётся главой колледжа.</p>
+<p class="muted">Развязка восстановлена по сравнению книги и фильма в английской Википедии и по пересказу фильма на TV Tropes; в книге тайное прошлое Анджелы другое, чем в фильме: она была стриптизёршей.</p>
+</details>
 
 <h2>Люди</h2>
 <div class="tbl"><table>
@@ -1269,6 +1277,8 @@ PAGES["roman-12"] = ("Смерть теперь моя соседка", f"""
 <h2>Источники</h2>
 <ul class="src">
 <li><a href="https://en.wikipedia.org/wiki/Death_Is_Now_My_Neighbour">Death Is Now My Neighbour — Википедия (англ.)</a></li>
+<li><a href="https://tvtropes.org/pmwiki/pmwiki.php/Recap/InspectorMorseS8E03DeathIsNowMyNeighbour">Пересказ фильма на TV Tropes</a></li>
+<li><a href="https://rottenbooks.wordpress.com/2013/05/22/colin-dexter-death-is-now-my-neighbour/">Рецензия на роман (Rotten Books)</a></li>
 <li><a href="https://morseandlewisandendeavour.com/2023/11/22/morse-episode-death-is-now-my-neighbour-review-locations-literary-references-music-etc-spoilers/">Разбор фильма на morseandlewisandendeavour.com</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Inspector_Morse">Inspector Morse — Википедия (англ.)</a></li>
 </ul>
@@ -1297,7 +1307,10 @@ PAGES["roman-13"] = ("День раскаяния", f"""
 <h2>Завязка</h2>
 <p>Год назад была убита медсестра Ивонн Харрисон, и дело так и не раскрыли. Здоровье Морса тем временем рушится. Он нехотя берётся за это дело, и у него есть на то личная причина: во время одной из прежних болезней он увлёкся Ивонн и написал ей об этом. Ивонн дарила благосклонность многим, так что подозреваемых хватает, включая любовника её дочери. Письмо Морса нашлось среди улик, и начальство его спрятало. Выясняется, что и у самого Стрейнджа был роман с Ивонн.</p>
 <p>Морс умирает от острого инфаркта. Его последние слова Стрейнджу: «Поблагодарите за меня Льюиса».</p>
-<p class="muted">Развязку романа мы перескажем, когда сверим её по двум независимым источникам; развязка фильма — ниже.</p>
+<details class="spoiler"><summary>Развязка — открыть, если роман прочитан</summary>
+<p>Ивонн погибла от руки собственной дочери Сары: та застала мать со своим любовником. Сериал, по оценке Википедии, в целом верен роману и тоже делает убийцей дочь (там её зовут Сандра).</p>
+<p>Морс умирает не на месте, а на больничной койке, когда дело уже раскрыто, и оставляет Льюису небольшое наследство.</p>
+</details>
 
 <h2>Люди</h2>
 <div class="tbl"><table>
@@ -1346,6 +1359,8 @@ PAGES["roman-13"] = ("День раскаяния", f"""
 <h2>Источники</h2>
 <ul class="src">
 <li><a href="https://en.wikipedia.org/wiki/The_Remorseful_Day">The Remorseful Day — Википедия (англ.)</a></li>
+<li><a href="https://ukpeviegrace.medium.com/the-remorseful-day-013991351e15">Рецензия на роман (Medium)</a></li>
+<li><a href="https://www.bevvincent.com/onyx/dexter-remorseful.html">Рецензия на роман (Onyx Reviews)</a></li>
 <li><a href="https://morseandlewisandendeavour.com/2024/10/08/morse-episode-the-remorseful-day-review-locations-literary-references-music-etc-spoilers/">Разбор серии на morseandlewisandendeavour.com</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Inspector_Morse">Inspector Morse — Википедия (англ.)</a></li>
 </ul>
