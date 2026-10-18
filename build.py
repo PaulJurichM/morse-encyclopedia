@@ -74,7 +74,7 @@ def page(slug, title, body, full=True):
     if full:
         return ('<!doctype html><html lang="ru"><head><meta charset="utf-8">'
                 '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">'
-                f"{head}</head><body>{inner}</body></html>")
+                f"{head}</head><body>{inner}<script data-goatcounter='https://malari.goatcounter.com/count' async src='https://gc.zgo.at/count.js'></script></body></html>")
     return head + inner  # для превью-артефакта: каркас добавит платформа
 
 
